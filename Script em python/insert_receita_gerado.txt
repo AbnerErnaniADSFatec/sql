@@ -1,0 +1,60 @@
+INSERT INTO receita VALUES (1,1,
+'Via oral, 10ml a cada oito horas','diclofenaco');
+INSERT INTO receita VALUES (2,2,
+'Via oral, 1L ao dia','Risperidona');
+INSERT INTO receita VALUES (3,3,
+'Via oral, 10ml ao dia','Dipirona');
+INSERT INTO receita VALUES (4,4,
+'Via oral, 5ml duas vezes ao dia','Rivotril');
+INSERT INTO receita VALUES (5,5,
+'Via oral, 8ml','Profenid');
+INSERT INTO receita VALUES (6,6,
+'Via oral, 10ml','Nimesulida 100 mg');
+INSERT INTO receita VALUES (7,7,
+'Via oral, 10ml uma vez por semana na UBS','Olanzapina');
+INSERT INTO receita VALUES (8,8,
+'Via oral, 5ml generico duas vezes ao dia','Aristab');
+INSERT INTO receita VALUES (9,9,
+'Via oral, 5ml duas vezes ao dia','Rivotril');
+INSERT INTO receita VALUES (10,10,
+'Via oral, 5ml duas vezes ao dia','Metamizol');
+INSERT INTO receita VALUES (11,11,
+'Via oral, 5ml duas vezes ao dia','Metamizol');
+INSERT INTO receita VALUES (12,12,
+'Via oral, 10ml ao dia','Dipirona');
+INSERT INTO receita VALUES (13,13,
+'Via oral, 5ml duas vezes ao dia','Metamizol');
+INSERT INTO receita VALUES (14,14,
+'Via oral, 5ml duas vezes ao dia','Metamizol');
+INSERT INTO receita VALUES (15,15,
+'Via oral, 1L ao dia','Risperidona');
+INSERT INTO receita VALUES (16,16,
+'Via oral, 5ml duas vezes ao dia','Metamizol');
+INSERT INTO receita VALUES (17,17,
+'Via oral, 5ml duas vezes ao dia','Metamizol');
+INSERT INTO receita VALUES (18,18,
+'Via oral, 10ml ao dia','Dipirona');
+INSERT INTO receita VALUES (19,19,
+'Via oral, 5ml duas vezes ao dia','Metamizol');
+INSERT INTO receita VALUES (20,20,
+'Via oral, 5ml duas vezes ao dia','Rivotril');
+INSERT INTO receita VALUES (21,21,
+'Via oral, 5ml duas vezes ao dia','Metamizol');
+INSERT INTO receita VALUES (22,22,
+'Via oral, 5ml duas vezes ao dia','Metamizol');
+INSERT INTO receita VALUES (23,23,
+'Via oral, 10ml','Nimesulida 100 mg');
+INSERT INTO receita VALUES (24,24,
+'Via oral, 5ml duas vezes ao dia','Metamizol');
+INSERT INTO receita VALUES (25,25,
+'Via oral, 5ml duas vezes ao dia','Metamizol');
+INSERT INTO receita VALUES (26,26,
+'Via oral, 10ml','Nimesulida 100 mg');
+INSERT INTO receita VALUES (27,27,
+'Via oral, 5ml duas vezes ao dia','Metamizol');
+INSERT INTO receita VALUES (28,28,
+'Via oral, 10ml uma vez por semana na UBS','Olanzapina');
+INSERT INTO receita VALUES (29,29,
+'Via oral, 5ml duas vezes ao dia','Metamizol');
+INSERT INTO receita VALUES (30,30,
+'Via oral, 10ml uma vez por semana na UBS','Olanzapina');

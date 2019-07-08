@@ -1,0 +1,150 @@
+INSERT INTO consulta VALUES (1,1,
+	'Nao possui alergias a nenhum tipo de medicamento e recentemente tomou uma capsula de resfenol para gripe',
+	'Em consulta',
+	'Paciente reclamou de dores pelo corpo, garganta inflamada e febre alta'
+);
+INSERT INTO consulta VALUES (2,2,
+	'Possui dificuldades para dormir e apresenta quadro psicotico',
+	'Em consulta',
+	'Paciente reclama de dores de cabe�a severas.'
+);
+INSERT INTO consulta VALUES (3,3,
+	'Nao possui alergias a nenhum tipo de medicamento',
+	'Em consulta',
+	'Paciente encontra-se em estado febril'
+);
+INSERT INTO consulta VALUES (4,4,
+	'Nao possui alergias e recentemente fez uma cirurgia cadiaca',
+	'Em consulta',
+	'Paciente est� com dores no peito.'
+);
+INSERT INTO consulta VALUES (5,5,
+	'Nao possui alergias a nenhum tipo de medicamento',
+	'Em espera',
+	'Paciente reclama de fraqueza e dores de cabe�a'
+);
+INSERT INTO consulta VALUES (6,6,
+	'Possui alergia a pnicilina',
+	'Em espera',
+	'Paciente est� passando por consulta de rotina'
+);
+INSERT INTO consulta VALUES (7,7,
+	'N�o possui alergias a nenhum tipo de medicamento',
+	'Em consulta',
+	'Paciente reclama de dores no ciatico.'
+);
+INSERT INTO consulta VALUES (8,8,
+	'Não possui alergias a nenhum tipo de medicamento, passou por uma cirurgia para corre��o do f�mur ap�s um acidente',
+	'Em espera',
+	'Paciente reclama de muitas dores pelo corpo'
+);
+INSERT INTO consulta VALUES (9,9,
+	'Nao possui alergias a nenhum tipo de medicamento',
+	'Em consulta',
+	'Paciente reclamou de garganta inflamada.'
+);
+INSERT INTO consulta VALUES (10,10,
+	'Nao possui alergias a nenhum tipo de medicamento',
+	'Em espera',
+	'Paciente quebrou o pe e sera encaminhado ao ortopedista'
+);
+INSERT INTO consulta VALUES (11,11,
+	'Nao possui alergias a nenhum tipo de medicamento',
+	'Aguardando chamada',
+	'Paciente reclamou de dores fortes na barriga'
+);
+INSERT INTO consulta VALUES (12,12,
+	'Paciente toma medicamentos continuos para pressao e coracao',
+	'Em consulta',
+	'Paciente esta em retorno de cirurgia'
+);
+INSERT INTO consulta VALUES (13,13,
+	'Paciente tem press�o alta e faz uso de remedio continuo',
+	'Em espera',
+	'Paciente reclamou de dores de cabe�a'
+);
+INSERT INTO consulta VALUES (14,14,
+	'Nao possui alergias a nenhum tipo de medicamento',
+	'Aguardando camada',
+	'Paciente precisa de cirurgia para extra�ao do dente do siso'
+);
+INSERT INTO consulta VALUES (15,15,
+	'Nao possui alergias a nenhum tipo de medicamento',
+	'Em espera',
+	'Paciente reclama de fortes dores no estomago e azia'
+);
+INSERT INTO consulta VALUES (16,16,
+	'Nao possui alergias a nenhum tipo de medicamento',
+	'Em consulta',
+	'Paciente est� com sinusite e um leve resfriado'
+);
+INSERT INTO consulta VALUES (17,17,
+	'Nao possui alergias a nenhum tipo de medicamento',
+	'Em consulta',
+	'Paciente reclamou de dores pelo corpo, garganta inflamada e febre alta'
+);
+INSERT INTO consulta VALUES (18,18,
+	'Possui alergia a penicilina',
+	'Em consulta',
+	'Paciente reclamou de dores pelo corpo, garganta inflamada'
+);
+INSERT INTO consulta VALUES (19,19,
+	'Possui leve alergia a anti-inflamatorio',
+	'Em espera',
+	'Paciente reclamou de garganta inflamada'
+);
+INSERT INTO consulta VALUES (20,20,
+	'Recentemente tomou uma capsula de dipirona com uma leve reacao alegica',
+	'Em consulta',
+	'Paciente reclamou de febre alta'
+);
+INSERT INTO consulta VALUES (21,21,
+	'Nao possui alergias a nenhum tipo de medicamento e recentemente tomou uma capsula de resfenol para gripe',
+	'Aguardando chamada',
+	'Paciente reclamou de dores pelo corpo, garganta inflamada e febre alta'
+);
+INSERT INTO consulta VALUES (22,22,
+	'Nao possui alergias a nenhum tipo de medicamento e recentemente tomou uma capsula de resfenol para gripe',
+	'Em consulta',
+	'Paciente reclamou de dores pelo corpo, garganta inflamada e febre alta'
+);
+INSERT INTO consulta VALUES (23,23,
+	'Alergia a penicilina e dipirona',
+	'Em espera',
+	'Paciente reclamou de dores pelo corpo e manchas vermelhas'
+);
+INSERT INTO consulta VALUES (24,24,
+	'Nao possui alergias a nenhum tipo de medicamento e recentemente tomou uma capsula de resfenol para gripe',
+	'Em consulta',
+	'Paciente reclamou de febre alta'
+);
+INSERT INTO consulta VALUES (25,25,
+	'Nao possui alergias a nenhum tipo de medicamento',
+	'Em consulta',
+	'Paciente reclamou de dores pelo corpo e sangramento pelos olhos'
+);
+INSERT INTO consulta VALUES (26,26,
+	'Nao possui alergias a nenhum tipo de medicamento',
+	'Em espera',
+	'Paciente reclamou de dores no intestino'
+);
+INSERT INTO consulta VALUES (27,27,
+	'Nao possui alergias a nenhum tipo de medicamento e recentemente tomou uma capsula de resfenol para gripe',
+	'Em consulta',
+	'Reclamou de hemorroida'
+);
+INSERT INTO consulta VALUES (28,28,
+	'Nao possui alergias a nenhum tipo de medicamento',
+	'Em espera',
+	'Paciente reclamou de pequenas protuberancias nas mucosas'
+);
+INSERT INTO consulta VALUES (29,29,
+	'Possui alergia a homeprazol',
+	'Em consulta',
+	'Paciente reclamou de dor no estomago'
+);
+INSERT INTO consulta VALUES (30,30,
+	'Nao possui alergias a nenhum tipo de medicamento',
+	'Em consulta',
+	'Paciente reclamou de estar feliz'
+);
